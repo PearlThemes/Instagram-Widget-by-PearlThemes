@@ -13,10 +13,10 @@
  * @package           Pearl_Instagram
  *
  * @wordpress-plugin
- * Plugin Name:       Instagram by PearlThemes
+ * Plugin Name:       Instagram Widget by PearlThemes
  * Plugin URI:        https://profiles.wordpress.org/pearlthemes
  * Description:       A light weight plugin to display recent Instagram photos with awesome customizability options.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            PearlThemes
  * Author URI:        https://www.pearlthemes.com
  * License:           GPL-2.0+

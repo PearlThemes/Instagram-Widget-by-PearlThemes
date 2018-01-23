@@ -2,8 +2,8 @@
 Contributors: pearlthemes
 Tags: instagram, instagram photos, instagram lightbox, instagram widget
 Requires at least: 3.0
-Tested up to: 4.7.3
-Stable tag: 4.7.3
+Tested up to: 4.9.2
+Stable tag: 4.9.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,10 @@ Instructions for installing the Instagram by PearlThemes Plugin.
 2. Widget Display (frontend)
 
 == Changelog ==
+
+= 1.1.0 =
+
+* Tested plugin with WordPress 4.9.2 and PHP 7.2.1
 
 = 1.0.0 =
 
