@@ -1,4 +1,4 @@
-=== Instagram Widget by PearlThemes ===
+=== Quick and Light Instagram Widget ===
 Contributors: pearlthemes
 Tags: instagram, instagram photos, instagram lightbox, instagram widget
 Requires at least: 3.0
